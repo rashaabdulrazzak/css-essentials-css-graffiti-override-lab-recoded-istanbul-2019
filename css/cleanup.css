@@ -9,3 +9,8 @@
   z-index: 7;
   display: block;
 }
+#wall #tag-4 {
+    background:none;
+    z-index: 4;
+    display: block;
+}

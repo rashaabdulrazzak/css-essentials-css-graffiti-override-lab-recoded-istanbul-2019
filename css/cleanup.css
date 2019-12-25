@@ -1,1 +1,6 @@
 /* write your override styles here */
+#wall #tag-2 {
+  background: url(../images/tag-2.png) no-repeat;
+  z-index: 6;
+  display: block;
+}
